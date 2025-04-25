@@ -8,13 +8,17 @@ This allows bnechmarks and tests for using stock Android ROM and other third par
 
 Tests:
 
-ROM | Kernel version | Android version | Communications, Mic & Speaker | NFC | Flashlight | Visual Keyboard | Desktop mode |
---- | --- | --- | --- | --- | --- | --- | --- |
-Stock ROM | 4.4.111-16762587 | 9 (A405FNXXU2ASJ1) | ✅ | ✅ | ✅ | ✅ (Samsung keyboard) | ? |
-EvolutionX | 4.4.302-p6 (Eureka) | 14 | ✅ | ❌ | ✅ | ❌ (not installed, but G-Board crashes, please get Simple Keyboard) | ✅ |
-lineageOS | ? | 13 | ✅ | ❌ | ✅ | ✅ (G-board) | ? |
+ROM | Kernel version | Android version | Communications, Mic & Speaker | NFC | Flashlight | Visual Keyboard | Desktop mode | Dolby Atmos | Smart View | DeX | Bloat-free |
+--- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+Samsung Stock ROM | 4.4.111-16762587 | 9 (A405FNXXU2ASJ1) | ✅ | ✅ | ✅ | ✅ (Samsung keyboard) | ? | ✅ | ✅ | ❌ | ❌ |
+EvolutionX | 4.4.302-p6 (Eureka) | 14 | ✅ | ❌ | ✅ | ❌ (not installed, but G-Board crashes, please get Simple Keyboard) | ✅ | ✅ | ❌ | ❌ | ? |
+lineageOS | ? | 13 | ✅ | ❌ | ✅ | ✅ (G-board) | ? | ? | ❌ | ❌ | ✅ |
 
-Communications equals WiFi, Bluetooth and GPS.
+Communications equals WiFi, Bluetooth, FM Radio and GPS.
+
+Additional codecs for stock ROM:
+
+Dolby AC-3, E-AC3, E-AC3 JOC, AC-4 and some.
 
 Benchmarks:
 
